@@ -1,16 +1,16 @@
 body {
-	background-color: lightblue;
+	background-color: #839FA3;
 	font-size: 20px;
 	margin: 0;
 }
 
 a {
-	color: white;
+	color: #E6E6E6;
 	transition: all 1s;
 }
 
 li:hover a {
-	color: black;
+	color: #141414;
 	
 }
 
@@ -21,17 +21,17 @@ ul {
 }
  
 li {
-	background-color: green;
+	background-color: #729E42;
 	margin: 20px 0px 20px 0px;
 	padding: 10px;
-	border-color: blue;
+	border-color: #28394D;
 	border-width: 4px;
 	border-style: solid;
 	transition: all 1s;
 }
 
 li:hover {
-	background-color: lightgreen;
+	background-color: #32CD32;
 	padding: 15px;
 
 }
